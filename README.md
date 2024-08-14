@@ -243,7 +243,7 @@
       <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/assemblyscript">Exemplos AssemblyScript</a>
     </td>
   </tr>
-</table
+</table>
 
 <h2 align="center">Frameworks</h2>
 
