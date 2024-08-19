@@ -245,15 +245,10 @@
   </tr>
 </table>
 
-<h2 align="center">Frameworks</h2>
+<h2 align="center">Web</h2>
 
 <table align="center">
   <tr>
-    <td align="center" width="11.11%" height="11.11%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40%" height="auto"/>
-      <br>
-      <a href="https://github.com/Jopestpe/dart_exemplos/tree/main/flutter_exemplos">Exemplos Flutter</a>
-    </td>
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" width="40%" height="auto"/>
       <br>
@@ -278,6 +273,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="40%" height="auto"/>
       <br>
       <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/frameworks/front-end/astro">Exemplos Astro</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/frameworks/front-end/vuejs">Exemplos VueJS</a>
     </td>
     </tr>
   <tr>
@@ -305,11 +305,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="40%" height="auto"/>
       <br>
       <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/frameworks/front-end/svelte">Exemplos Svelte</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40%" height="auto"/>
-      <br>
-      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/frameworks/front-end/vuejs">Exemplos VueJS</a>
     </td>
     </tr>
 </table>
@@ -365,6 +360,11 @@
       <span>Exemplos RayLib</span><br>
       <a href="https://github.com/Jopestpe/c_exemplos/tree/main/raylib_exemplo">Em C</a><br>
       <a href="https://github.com/Jopestpe/zig_exemplos/tree/main/raylib">Em Zig</a><br>
+    </td>
+      <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/dart_exemplos/tree/main/flutter_exemplos">Exemplos Flutter</a>
     </td>
     </tr>
 </table>
