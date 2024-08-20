@@ -362,7 +362,7 @@
       <a href="https://github.com/Jopestpe/c_exemplos/tree/main/raylib_exemplo">Em C</a><br>
       <a href="https://github.com/Jopestpe/zig_exemplos/tree/main/raylib">Em Zig</a><br>
     </td>
-      <td align="center" width="11.11%" height="11.11%">
+    <td align="center" width="11.11%" height="11.11%">
       <img src="https://raw.githubusercontent.com/GNOME/gtk/a6e002889930fbac04ee82b15234e1cf18fb3570/.gitlab-ci/pages/gtk-logo.svg" width="40%" height="auto"/>
       <br>
       <span>Exemplos GTK</span><br>
@@ -371,6 +371,19 @@
       <a href="https://github.com/Jopestpe/python_exemplos/blob/main/gtk_python.py">Em Python</a><br>
       <a href="https://github.com/Jopestpe/c_exemplos/tree/main/gtk_exemplo">Em C</a><br>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/1266152?v=4" width="40%" height="auto"/>
+      <br>
+      <span>Exemplos Kivy</span><br>
+      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/gtk">Em Python</a><br>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/kitao/pyxel/main/docs/images/pyxel_logo_152x64.png" width="40%" height="auto"/>
+      <br>
+      <span>Exemplos Pyxel</span><br>
+      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/gtk">Em Python</a><br>
+    </td>
+      
     </tr>
 </table>
 
