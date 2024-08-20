@@ -306,6 +306,11 @@
       <br>
       <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/frameworks/front-end/svelte">Exemplos Svelte</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/erlang_exemplos/tree/main/elixir_exemplo/phoenix_exemplos">Exemplos Phoenix</a>
+    </td>
     </tr>
 </table>
 
@@ -313,14 +318,10 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="11.11%" height="11.11%">
-      <img src="https://raw.githubusercontent.com/GNOME/gtk/a6e002889930fbac04ee82b15234e1cf18fb3570/.gitlab-ci/pages/gtk-logo.svg" width="40%" height="auto"/>
+     <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40%" height="auto"/>
       <br>
-      <span>Exemplos GTK</span><br>
-      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/gtk">Em JavaScript</a><br>
-      <a href="https://github.com/Jopestpe/rust_exemplos/tree/main/gtk_exemplos">Em Rust</a><br>
-      <a href="https://github.com/Jopestpe/python_exemplos/blob/main/gtk_python.py">Em Python</a><br>
-      <a href="https://github.com/Jopestpe/c_exemplos/tree/main/gtk_exemplo">Em C</a><br>
+      <a href="https://github.com/Jopestpe/dart_exemplos/tree/main/flutter_exemplos">Exemplos Flutter</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://avatars.githubusercontent.com/u/159455?v=4" width="40%" height="auto"/>
@@ -362,9 +363,72 @@
       <a href="https://github.com/Jopestpe/zig_exemplos/tree/main/raylib">Em Zig</a><br>
     </td>
       <td align="center" width="11.11%" height="11.11%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40%" height="auto"/>
+      <img src="https://raw.githubusercontent.com/GNOME/gtk/a6e002889930fbac04ee82b15234e1cf18fb3570/.gitlab-ci/pages/gtk-logo.svg" width="40%" height="auto"/>
       <br>
-      <a href="https://github.com/Jopestpe/dart_exemplos/tree/main/flutter_exemplos">Exemplos Flutter</a>
+      <span>Exemplos GTK</span><br>
+      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/gtk">Em JavaScript</a><br>
+      <a href="https://github.com/Jopestpe/rust_exemplos/tree/main/gtk_exemplos">Em Rust</a><br>
+      <a href="https://github.com/Jopestpe/python_exemplos/blob/main/gtk_python.py">Em Python</a><br>
+      <a href="https://github.com/Jopestpe/c_exemplos/tree/main/gtk_exemplo">Em C</a><br>
     </td>
     </tr>
+</table>
+
+<h2 align="center">Configurações</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40%" height="auto"/>
+      <br>
+      <a href="">Configuração VSCode/VSCodium</a>
+    </td>
+     <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40%" height="auto"/>
+      <br>
+      <a href="">Configuração e Tema VIM</a>
+    </td>
+     <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/emacs-mirror/emacs/845d22652d08f998863134334f7de617c50a10b2/etc/images/icons/hicolor/scalable/apps/emacs.svg" width="40%" height="auto"/>
+      <br>
+      <a href="">Configuração e Tema Emacs</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/vercel/hyper/canary/app/static/icon.png" width="40%" height="auto"/>
+      <br>
+      <a href="">Configuração e Tema Hyper</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40%" height="auto"/>
+      <br>
+      <a href="">Configuração Blender</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/KDE/krita/8fca43a64281619da4352146642975b4ec505fa3/pics/krita-base.svg" width="40%" height="auto"/>
+      <br>
+      <a href="">Configuração Krita</a>
+    </td>
+   </tr>
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://github.com/tmux/tmux/blob/master/logo/tmux-logomark.svg" width="40%" height="auto"/>
+      <br>
+      <a href="">Configuração Tmux</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/DanteAlighierin/foot/815642575870fcea7e1ffef3462218bed3ced5e8/icons/hicolor/scalable/apps/foot.svg" width="40%" height="auto"/>
+      <br>
+      <a href="">Configuração FooT</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="" width="40%" height="auto"/>
+      <br>
+      <a href="">Configuração Nano</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="" width="40%" height="auto"/>
+      <br>
+      <a href="">Configuração Weston</a>
+    </td>
+   </tr>
 </table>
