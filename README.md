@@ -383,7 +383,6 @@
       <span>Exemplos Pyxel</span><br>
       <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/gtk">Em Python</a><br>
     </td>
-      
     </tr>
 </table>
 
