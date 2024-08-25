@@ -375,13 +375,13 @@
       <img src="https://avatars.githubusercontent.com/u/1266152?v=4" width="40%" height="auto"/>
       <br>
       <span>Exemplos Kivy</span><br>
-      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/gtk">Em Python</a><br>
+      <a href="https://github.com/Jopestpe/python_exemplos/tree/main/kivy_exemplos">Em Python</a><br>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://raw.githubusercontent.com/kitao/pyxel/main/docs/images/pyxel_logo_152x64.png" width="40%" height="auto"/>
       <br>
       <span>Exemplos Pyxel</span><br>
-      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/gtk">Em Python</a><br>
+      <a href="https://github.com/Jopestpe/python_exemplos/tree/main/pyxel_exemplos">Em Python</a><br>
     </td>
     </tr>
 </table>
