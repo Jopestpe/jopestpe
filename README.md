@@ -200,6 +200,21 @@
           <br>
           <a href="https://github.com/Jopestpe/ats_exemplos">Exemplos ATS</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" width="40%" height="auto"/>
+          <br>
+          <a href="https://github.com/Jopestpe/prolog_exemplos">Exemplos Prolog</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+          <img src="https://avatars.githubusercontent.com/u/37253655?v=4" width="40%" height="auto"/>
+          <br>
+          <a href="https://github.com/Jopestpe/io_exemplos">Exemplos io</a>
+    </td>
+   <td align="center" width="11.11%" height="11.11%">
+          <img src="https://avatars.githubusercontent.com/u/49415261?v=4" width="40%" height="auto"/>
+          <br>
+          <a href="https://github.com/Jopestpe/ml_exemplos">Exemplos ML</a>
+    </td>
   </tr>
 </table>
 
