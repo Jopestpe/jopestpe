@@ -264,6 +264,11 @@
       <br>
       <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/assemblyscript">Exemplos AssemblyScript</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/carbon/carbon-original.svg" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/carbon_exemplos">Exemplos AssemblyScript</a>
+    </td>
   </tr>
 </table>
 
@@ -332,6 +337,13 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" width="40%" height="auto"/>
       <br>
       <a href="https://github.com/Jopestpe/erlang_exemplos/tree/main/elixir_exemplo/phoenix_exemplos">Exemplos Phoenix</a>
+    </td>
+    </tr>
+    <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/browser_exemplos">Exemplos Nativo navegador</a>
     </td>
     </tr>
 </table>
