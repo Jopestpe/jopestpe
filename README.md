@@ -355,7 +355,8 @@
      <td align="center" width="11.11%" height="11.11%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40%" height="auto"/>
       <br>
-      <a href="https://github.com/Jopestpe/dart_exemplos/tree/main/flutter_exemplos">Em Dart</a>
+       <span>Exemplos Flutter</span><br>
+        <a href="https://github.com/Jopestpe/dart_exemplos/tree/main/flutter_exemplos">Em Dart</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://avatars.githubusercontent.com/u/159455?v=4" width="40%" height="auto"/>
