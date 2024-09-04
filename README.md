@@ -215,6 +215,17 @@
           <br>
           <a href="https://github.com/Jopestpe/ml_exemplos">Exemplos ML</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+          <img src="https://raw.githubusercontent.com/github/explore/108a0c92a9caa79434b339b08d94767679c59286/topics/ada/ada.png" width="40%" height="auto"/>
+          <br>
+          <a href="https://github.com/Jopestpe/ada_exemplos">Exemplos Ada</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+          <img src="https://avatars.githubusercontent.com/u/53759?s=200&v=4" width="40%" height="auto"/>
+          <br>
+          <a href="https://github.com/Jopestpe/tcl_exemplos">Exemplos Tcl</a>
+    </td>
+    
   </tr>
 </table>
 
@@ -267,7 +278,7 @@
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/carbon/carbon-original.svg" width="40%" height="auto"/>
       <br>
-      <a href="https://github.com/Jopestpe/carbon_exemplos">Exemplos AssemblyScript</a>
+      <a href="https://github.com/Jopestpe/carbon_exemplos">Exemplos Carbon</a>
     </td>
   </tr>
 </table>
