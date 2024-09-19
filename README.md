@@ -479,12 +479,12 @@
       <a href="">Configuração FooT</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <img src="" width="40%" height="auto"/>
+      <img src="https://repository-images.githubusercontent.com/207689327/34b19b00-d414-11e9-9f56-68a14e111fa5" width="40%" height="auto"/>
       <br>
       <a href="">Configuração Nano</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <img src="" width="40%" height="auto"/>
+      <img src="https://repository-images.githubusercontent.com/737870617/c48fc9b9-0e1a-41b3-9dbc-78fc6f6164e5" width="40%" height="auto"/>
       <br>
       <a href="">Configuração Weston</a>
     </td>
