@@ -225,7 +225,13 @@
           <br>
           <a href="https://github.com/Jopestpe/tcl_exemplos">Exemplos Tcl</a>
     </td>
-    
+  </tr>
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" width="40%" height="auto"/>
+        <br>
+        <a href="https://github.com/Jopestpe/haxe_exemplos">Exemplos Haxe</a>
+    </td>
   </tr>
 </table>
 
