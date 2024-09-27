@@ -435,6 +435,12 @@
       <span>Exemplos Pyxel</span><br>
       <a href="https://github.com/Jopestpe/python_exemplos/tree/main/pyxel_exemplos">Em Python</a><br>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://github.com/love2d/love/blob/main/platform/unix/love.svg" width="40%" height="auto"/>
+      <br>
+      <span>Exemplos Love2D</span><br>
+      <a href="https://github.com/Jopestpe/lua_exemplos/tree/main/love2d_exemplos">Em Lua</a><br>
+    </td>
     </tr>
 </table>
 
