@@ -441,6 +441,12 @@
       <span>Exemplos Love2D</span><br>
       <a href="https://github.com/Jopestpe/lua_exemplos/tree/main/love2d_exemplos">Em Lua</a><br>
     </td>
+<td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/102273996?s=200&v=4" width="40%" height="auto"/>
+      <br>
+      <span>Exemplos Flet</span><br>
+      <a href="https://github.com/Jopestpe/python_exemplos/tree/main/flet_exemplos">Em Python</a><br>
+    </td>
     </tr>
 </table>
 
