@@ -286,6 +286,11 @@
       <br>
       <a href="https://github.com/Jopestpe/carbon_exemplos">Exemplos Carbon</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/1481354?v=4" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/erlang_exemplos/tree/main/elixir_exemplo">Exemplos Elixir</a>
+    </td>
   </tr>
 </table>
 
