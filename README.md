@@ -427,6 +427,7 @@
       <a href="https://github.com/Jopestpe/rust_exemplos/tree/main/gtk_exemplos">Em Rust</a><br>
       <a href="https://github.com/Jopestpe/python_exemplos/blob/main/gtk_python.py">Em Python</a><br>
       <a href="https://github.com/Jopestpe/c_exemplos/tree/main/gtk_exemplo">Em C</a><br>
+      <a href="https://github.com/Jopestpe/vala_exemplos/blob/main/ola_gtk_vala.vala">Em Vala</a><br>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://avatars.githubusercontent.com/u/1266152?v=4" width="40%" height="auto"/>
