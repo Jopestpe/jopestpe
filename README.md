@@ -232,6 +232,11 @@
         <br>
         <a href="https://github.com/Jopestpe/haxe_exemplos">Exemplos Haxe</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+        <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/cobol.svg" width="40%" height="auto"/>
+        <br>
+        <a href="https://github.com/Jopestpe/cobol_exemplos">Exemplos cobol</a>
+    </td>
   </tr>
 </table>
 
