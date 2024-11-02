@@ -468,54 +468,54 @@
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40%" height="auto"/>
       <br>
-      <a href="">Configuração VSCode/VSCodium</a>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/blob/main/home/.config/VSCodium/User/settings.json">Configuração VSCode/VSCodium</a>
     </td>
      <td align="center" width="11.11%" height="11.11%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40%" height="auto"/>
       <br>
-      <a href="">Configuração e Tema VIM</a>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/blob/main/home/colors/jopestpe.vim">Configuração e Tema VIM</a>
     </td>
      <td align="center" width="11.11%" height="11.11%">
       <img src="https://raw.githubusercontent.com/emacs-mirror/emacs/845d22652d08f998863134334f7de617c50a10b2/etc/images/icons/hicolor/scalable/apps/emacs.svg" width="40%" height="auto"/>
       <br>
-      <a href="">Configuração e Tema Emacs</a>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.emacs.d">Configuração e Tema Emacs</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://raw.githubusercontent.com/vercel/hyper/canary/app/static/icon.png" width="40%" height="auto"/>
       <br>
-      <a href="">Configuração e Tema Hyper</a>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/blob/main/home/.hyper.js">Configuração e Tema Hyper</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40%" height="auto"/>
       <br>
-      <a href="">Configuração Blender</a>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/blob/main/home/blender.blend">Configuração Blender</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://raw.githubusercontent.com/KDE/krita/8fca43a64281619da4352146642975b4ec505fa3/pics/krita-base.svg" width="40%" height="auto"/>
       <br>
-      <a href="">Configuração Krita</a>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.local/share/krita/workspaces">Configuração Krita</a>
     </td>
    </tr>
   <tr>
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://github.com/tmux/tmux/blob/master/logo/tmux-logomark.svg" width="40%" height="auto"/>
       <br>
-      <a href="">Configuração Tmux</a>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/blob/main/home/.tmux.conf">Configuração Tmux</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://raw.githubusercontent.com/DanteAlighierin/foot/815642575870fcea7e1ffef3462218bed3ced5e8/icons/hicolor/scalable/apps/foot.svg" width="40%" height="auto"/>
       <br>
-      <a href="">Configuração FooT</a>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/blob/main/home/foot.ini">Configuração FooT</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://repository-images.githubusercontent.com/207689327/34b19b00-d414-11e9-9f56-68a14e111fa5" width="40%" height="auto"/>
       <br>
-      <a href="">Configuração Nano</a>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/blob/main/home/.nanorc">Configuração Nano</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://repository-images.githubusercontent.com/737870617/c48fc9b9-0e1a-41b3-9dbc-78fc6f6164e5" width="40%" height="auto"/>
       <br>
-      <a href="">Configuração Weston</a>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/blob/main/home/.config/weston.ini">Configuração Weston</a>
     </td>
    </tr>
 </table>
