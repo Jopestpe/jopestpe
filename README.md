@@ -237,6 +237,11 @@
         <br>
         <a href="https://github.com/Jopestpe/cobol_exemplos">Exemplos cobol</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+        <img src="https://github.com/russellallen/self/blob/master/docs/handbook/images/self.png" width="40%" height="auto"/>
+        <br>
+        <a href="https://github.com/Jopestpe/self_exemplos">Exemplos Self</a>
+    </td>
   </tr>
 </table>
 
