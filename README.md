@@ -235,12 +235,17 @@
     <td align="center" width="11.11%" height="11.11%">
         <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/cobol.svg" width="40%" height="auto"/>
         <br>
-        <a href="https://github.com/Jopestpe/cobol_exemplos">Exemplos cobol</a>
+        <a href="https://github.com/Jopestpe/cobol_exemplos">Exemplos Cobol</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
         <img src="https://github.com/russellallen/self/blob/master/docs/handbook/images/self.png" width="40%" height="auto"/>
         <br>
         <a href="https://github.com/Jopestpe/self_exemplos">Exemplos Self</a>
+    </td>
+   <td align="center" width="11.11%" height="11.11%">
+        <img src="https://avatars.githubusercontent.com/u/298124?v=4" width="40%" height="auto"/>
+        <br>
+        <a href="https://github.com/Jopestpe/basic_exemplos">Exemplos Basic</a>
     </td>
   </tr>
 </table>
