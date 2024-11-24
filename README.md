@@ -473,11 +473,17 @@
     </tr>
     <tr>
       <td align="center" width="11.11%" height="11.11%">
-      <img src="https://avatars.githubusercontent.com/u/102273996?s=200&v=4" width="40%" height="auto"/>
-      <br>
-      <span>Exemplos Flet</span><br>
-      <a href="https://github.com/Jopestpe/python_exemplos/tree/main/flet_exemplos">Em Python</a><br>
-    </td>
+        <img src="https://avatars.githubusercontent.com/u/102273996?s=200&v=4" width="40%" height="auto"/>
+        <br>
+        <span>Exemplos Flet</span><br>
+        <a href="https://github.com/Jopestpe/python_exemplos/tree/main/flet_exemplos">Em Python</a><br>
+      </td>
+      <td align="center" width="11.11%" height="11.11%">
+        <img src="https://raw.githubusercontent.com/bevyengine/bevy/refs/heads/main/assets/branding/icon.svg" width="40%" height="auto"/>
+        <br>
+        <span>Exemplos Bevy</span><br>
+        <a href="https://github.com/Jopestpe/rust_exemplos/tree/main/bevy_exemplos">Em Rust</a><br>
+      </td>
     </tr>
 </table>
 
