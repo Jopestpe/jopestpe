@@ -484,6 +484,12 @@
         <span>Exemplos Bevy</span><br>
         <a href="https://github.com/Jopestpe/rust_exemplos/tree/main/bevy_exemplos">Em Rust</a><br>
       </td>
+      <td align="center" width="11.11%" height="11.11%">
+        <img src="https://avatars.githubusercontent.com/u/54513237?v=4" width="40%" height="auto"/>
+        <br>
+        <span>Exemplos iced</span><br>
+        <a href="https://github.com/Jopestpe/rust_exemplos/tree/main/iced_exemplos">Em Rust</a><br>
+      </td>
     </tr>
 </table>
 
