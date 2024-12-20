@@ -469,6 +469,7 @@
       <a href="https://github.com/Jopestpe/c_exemplos/tree/main/webview_exemplos">Em C</a><br>
       <a href="https://github.com/Jopestpe/rust_exemplos/tree/main/webview_exemplo/src">Em Rust</a><br>
       <a href="https://github.com/Jopestpe/go_exemplos/tree/main/webview">Em Go</a><br>
+      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/runtimes/deno/webview_exemplo">Em JavaScript(Deno)</a><br>
     </td>
     </tr>
     <tr>
