@@ -550,5 +550,11 @@
       <br>
       <a href="https://github.com/Jopestpe/arquivos_exemplos/blob/main/home/.config/weston.ini">Configuração Weston</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/79345384?v=4" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.config/zed">Configuração Zed</a>
+    </td>
+    
    </tr>
 </table>
