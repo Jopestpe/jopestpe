@@ -541,7 +541,7 @@
       <a href="https://github.com/Jopestpe/arquivos_exemplos/blob/main/home/foot.ini">Configuração FooT</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <img src="https://repository-images.githubusercontent.com/207689327/34b19b00-d414-11e9-9f56-68a14e111fa5" width="40%" height="auto"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/256px-Gnu-nano.svg.png?20091219063420" width="40%" height="auto"/>
       <br>
       <a href="https://github.com/Jopestpe/arquivos_exemplos/blob/main/home/.nanorc">Configuração Nano</a>
     </td>
