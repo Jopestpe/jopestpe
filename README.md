@@ -555,6 +555,10 @@
       <br>
       <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.config/zed">Configuração Zed</a>
     </td>
-    
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/85096704?s=200&v=4" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.config/lite-xl">Configuração Lite XL</a>
+    </td>
    </tr>
 </table>
