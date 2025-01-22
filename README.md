@@ -1,5 +1,38 @@
 <h1 align="center">Sumário do perfil</h1>
-<h3 align="center">📢 No momento os repositorios estao privados</h3>
+
+<h2 align="center">Páginas</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://jopestpe.github.io/d20">d20</a><br>
+      <img src="https://raw.githubusercontent.com/Jopestpe/d20/refs/heads/main/icone.png" width="40%" height="auto"/><br>
+      <a href="https://github.com/Jopestpe/d20">Repositório</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://jopestpe.github.io/Verfon">Verfon</a><br>
+      <img src="https://raw.githubusercontent.com/Jopestpe/Verfon/refs/heads/main/icone.png" width="40%" height="auto"/><br>
+      <a href="https://github.com/Jopestpe/Verfon">Repositório</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://jopestpe.github.io/Edisvg">Edisvg</a><br>
+      <img src="https://raw.githubusercontent.com/Jopestpe/Edisvg/refs/heads/main/icone.svg" width="40%" height="auto"/><br>
+      <a href="https://github.com/Jopestpe/Edisvg">Repositório</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://jopestpe.github.io/Selcor">Selcor</a><br>
+      <img src="https://raw.githubusercontent.com/Jopestpe/Selcor/refs/heads/main/icone.svg" width="40%" height="auto"/><br>
+      <a href="https://github.com/Jopestpe/Selcor">Repositório</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://jopestpe.github.io/Quabra">Quabra</a><br>
+      <img src="https://raw.githubusercontent.com/Jopestpe/Quabra/refs/heads/main/icone.png" width="40%" height="auto"/><br>
+      <a href="https://github.com/Jopestpe/Quabra">Repositório</a>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">📢 No momento os repositorios abaixo estão privados</h3>
 <h2 align="center">Linguagens de Programação</h2>
 
 <table align="center">
@@ -561,36 +594,4 @@
       <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.config/lite-xl">Configuração Lite XL</a>
     </td>
    </tr>
-</table>
-
-<h2 align="center">Paginas</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://jopestpe.github.io/d20">d20</a><br>
-      <img src="https://raw.githubusercontent.com/Jopestpe/d20/refs/heads/main/icone.png" width="40%" height="auto"/><br>
-      <a href="https://github.com/Jopestpe/d20">Repositório</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://jopestpe.github.io/Verfon">Verfon</a><br>
-      <img src="https://raw.githubusercontent.com/Jopestpe/Verfon/refs/heads/main/icone.png" width="40%" height="auto"/><br>
-      <a href="https://github.com/Jopestpe/Verfon">Repositório</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://jopestpe.github.io/Edisvg">Edisvg</a><br>
-      <img src="https://raw.githubusercontent.com/Jopestpe/Edisvg/refs/heads/main/icone.svg" width="40%" height="auto"/><br>
-      <a href="https://github.com/Jopestpe/Edisvg">Repositório</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://jopestpe.github.io/Selcor">Selcor</a><br>
-      <img src="https://raw.githubusercontent.com/Jopestpe/Selcor/refs/heads/main/icone.svg" width="40%" height="auto"/><br>
-      <a href="https://github.com/Jopestpe/Selcor">Repositório</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://jopestpe.github.io/Quabra">Quabra</a><br>
-      <img src="https://raw.githubusercontent.com/Jopestpe/Quabra/refs/heads/main/icone.png" width="40%" height="auto"/><br>
-      <a href="https://github.com/Jopestpe/Quabra">Repositório</a>
-    </td>
-  </tr>
 </table>
