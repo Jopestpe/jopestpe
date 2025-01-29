@@ -339,6 +339,23 @@
       <br>
       <a href="https://github.com/Jopestpe/erlang_exemplos/tree/main/elixir_exemplo">Exemplos Elixir</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/36161205?v=4" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/erlang_exemplos/tree/main/gleam_exemplos">Exemplos Gleam</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/aardappel/lobster/3602f80ebdce201c113b0e868c84d7d87d65df10/docs/lobster.svg" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/lobster_exemplos">Exemplos Lobster</a>
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/102979627?v=4" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/onyx_exemplos">Exemplos Onyx</a>
+    </td>
   </tr>
 </table>
 
