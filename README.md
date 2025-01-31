@@ -432,6 +432,11 @@
       <br>
       <a href="https://github.com/Jopestpe/browser_exemplos">Exemplos Nativo navegador</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rails/rails-plain.svg" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/ruby_exemplos/tree/main/rails">Exemplos Ruby on rails</a>
+    </td>
     </tr>
 </table>
 
