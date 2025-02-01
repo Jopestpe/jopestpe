@@ -280,6 +280,11 @@
         <br>
         <a href="https://github.com/Jopestpe/basic_exemplos">Exemplos Basic</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+        <img src="https://avatars.githubusercontent.com/u/17973670?v=4" width="40%" height="auto"/>
+        <br>
+        <a href="https://github.com/Jopestpe/ring_exemplos">Exemplos Ring</a>
+    </td>
   </tr>
 </table>
 
