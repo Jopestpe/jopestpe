@@ -460,6 +460,7 @@
       <br>
       <span>Exemplos QT</span><br>
       <a href="https://github.com/Jopestpe/cpp_exemplos">Em C++</a><br>
+      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/qt">Em JS</a><br>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <img src="https://raw.githubusercontent.com/fpc/Lazarus/36550e348859c53bd4f1aa307abbf403a7a03ea7/images/icons/lazarus.svg" width="40%" height="auto"/>
