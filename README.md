@@ -362,10 +362,15 @@
     </td>
   </tr>
   <tr>
-  <td align="center" width="11.11%" height="11.11%">
+    <td align="center" width="11.11%" height="11.11%">
       <img src="https://avatars.githubusercontent.com/u/102979627?v=4" width="40%" height="auto"/>
       <br>
       <a href="https://github.com/Jopestpe/onyx_exemplos">Exemplos Onyx</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/92327702?v=4" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/bend_exemplos">Exemplos Bend</a>
     </td>
   </tr>
 </table>
