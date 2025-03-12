@@ -378,6 +378,11 @@
       <br>
       <a href="https://github.com/Jopestpe/bend_exemplos">Exemplos Bend</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/150859076?s=200&v=4" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/mojo_exemplos">Exemplos Mojo</a>
+    </td>
   </tr>
 </table>
 
