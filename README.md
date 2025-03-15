@@ -297,6 +297,11 @@
         <br>
         <a href="https://github.com/Jopestpe/objectivec_exemplos">Exemplos Objective-C</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+        <img src="https://avatars.githubusercontent.com/u/63474338?s=200&v=4" width="40%" height="auto"/>
+        <br>
+        <a href="https://github.com/Jopestpe/roc_exemplos">Exemplos Roc</a>
+    </td>
   </tr>
 </table>
 
@@ -383,6 +388,24 @@
       <br>
       <a href="https://github.com/Jopestpe/mojo_exemplos">Exemplos Mojo</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/6556677?s=200&v=4" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/purescript_exemplos">Exemplos Purescript</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/4625645?s=200&v=4" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/red_exemplos">Exemplos Red</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/67560249?s=200&v=4" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/java_exemplos/tree/main/scala_exemplos/vale_exemplos">Exemplos Vale</a>
+    </td>
+
+
+    
   </tr>
 </table>
 
