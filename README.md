@@ -302,6 +302,11 @@
         <br>
         <a href="https://github.com/Jopestpe/roc_exemplos">Exemplos Roc</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+        <img src="https://harelang.org/mascot.png" width="40%" height="auto"/>
+        <br>
+        <a href="https://github.com/Jopestpe/hare_exemplos">Exemplos Hare</a>
+    </td>
   </tr>
 </table>
 
@@ -403,10 +408,14 @@
       <br>
       <a href="https://github.com/Jopestpe/java_exemplos/tree/main/scala_exemplos/vale_exemplos">Exemplos Vale</a>
     </td>
-
-
-    
   </tr>
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/98821530?s=200&v=4" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/snowball_exemplos">Exemplos Snowball</a>
+    </td>
+   </tr>
 </table>
 
 <h2 align="center">Web</h2>
