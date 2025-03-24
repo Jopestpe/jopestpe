@@ -627,7 +627,7 @@
         <img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" width="40%" height="auto"/>
         <br>
         <span>Exemplos Godot</span><br>
-        <a href="https://github.com/Jopestpe/rust_exemplos/tree/main/godot_exemplos">Em GDScript</a><br>
+        <a href="https://github.com/Jopestpe/godot_exemplos">Em GDScript</a><br>
       </td>
       <td align="center" width="11.11%" height="11.11%">
         <img src="https://avatars.githubusercontent.com/u/77683370?s=200&v=4" width="40%" height="auto"/>
