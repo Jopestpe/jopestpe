@@ -634,6 +634,7 @@
         <br>
         <span>Exemplos SDL</span><br>
         <a href="https://github.com/Jopestpe/c_exemplos/tree/main/sdl_exemplos">Em C</a><br>
+        <a href="https://github.com/Jopestpe/rust_exemplos/tree/main/sdl_exemplos">Em Rust</a><br>
       </td>
     </tr>
     <tr>
