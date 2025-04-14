@@ -415,6 +415,11 @@
       <br>
       <a href="https://github.com/Jopestpe/snowball_exemplos">Exemplos Snowball</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/45798268?s=200&v=4" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/janet_exemplos">Exemplos Janet</a>
+    </td>
    </tr>
 </table>
 
