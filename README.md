@@ -1,5 +1,17 @@
 <h1 align="center">Sumário do perfil</h1>
 
+<h2 align="center">Jogos</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://jopestpe.github.io/Astromat/">Astromat</a><br>
+      <img src="https://github.com/Jopestpe/Astromat/blob/main/Svgs/icone.svg" width="40%" height="auto"/><br>
+      <a href="https://github.com/Jopestpe/Astromat">Repositório</a>
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">Páginas</h2>
 
 <table align="center">
