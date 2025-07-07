@@ -41,6 +41,11 @@
       <img src="https://raw.githubusercontent.com/Jopestpe/Quabra/refs/heads/main/icone.png" width="40%" height="auto"/><br>
       <a href="https://github.com/Jopestpe/Quabra">Repositório</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://jopestpe.github.io/Quadevo/">Quadevo</a><br>
+      <img src="https://raw.githubusercontent.com/Jopestpe/Quadevo/refs/heads/main/icone.svg" width="40%" height="auto"/><br>
+      <a href="https://github.com/Jopestpe/Quadevo">Repositório</a>
+    </td>
   </tr>
 </table>
 
