@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://astromat.vercel.app/">Astromat</a><br>
+      <a href="https://jopestpe.github.io/Astromat/">Astromat</a><br>
       <img src="https://github.com/Jopestpe/Astromat/blob/main/Svgs/icone.svg" width="100%" height="auto"/><br>
       <a href="https://github.com/Jopestpe/Astromat">Repositório</a>
     </td>
