@@ -444,6 +444,11 @@
       <br>
       <a href="https://github.com/Jopestpe/janet_exemplos">Exemplos Janet</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <img src="https://avatars.githubusercontent.com/u/11498997?v=4" width="40%" height="auto"/>
+      <br>
+      <a href="https://github.com/Jopestpe/lisp_exemplos/tree/main/picolisp_exemplos">Exemplos PicoLisp</a>
+    </td>
    </tr>
 </table>
 
