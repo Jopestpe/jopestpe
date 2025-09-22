@@ -53,6 +53,21 @@
       <img src="https://github.com/Jopestpe/Formumat/blob/main/icone.svg" width="40%" height="auto"/><br>
       <a href="https://github.com/Jopestpe/Formumat">Repositório</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://jopestpe.github.io/vscode-tema/">vscode-tema</a><br>
+      <img src="https://github.com/Jopestpe/vscode-tema/blob/main/assets/icone.svg" width="40%" height="auto"/><br>
+      <a href="https://github.com/Jopestpe/vscode-tema">Repositório</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://jopestpe.github.io/Pegmus/">Pegmus</a><br>
+      <img src="https://github.com/Jopestpe/Pegmus/blob/main/pegmus.svg" width="40%" height="auto"/><br>
+      <a href="https://github.com/Jopestpe/Pegmus">Repositório</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://jopestpe.github.io/Piin/">Piin</a><br>
+      <img src="https://github.com/Jopestpe/Piin/blob/main/icone.png" width="40%" height="auto"/><br>
+      <a href="https://github.com/Jopestpe/Piin">Repositório</a>
+    </td>
   </tr>
 </table>
 
