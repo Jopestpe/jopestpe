@@ -397,6 +397,10 @@
       <a href="https://github.com/Jopestpe/moonbit_exemplos"><img src="https://avatars.githubusercontent.com/u/124848646?v=4" width="40%" height="auto" alt="MoonBit"></a><br>
       <a href="https://github.com/Jopestpe/moonbit_exemplos">Exemplos MoonBit</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/umka_exemplos"><img src="https://raw.githubusercontent.com/vtereshkov/umka-lang/master/resources/logo.svg" width="40%" height="auto" alt="umka"></a><br>
+      <a href="https://github.com/Jopestpe/umka_exemplos">Exemplos umka</a>
+    </td>
   </tr>
 </table>
 
