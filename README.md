@@ -401,6 +401,10 @@
       <a href="https://github.com/Jopestpe/umka_exemplos"><img src="https://raw.githubusercontent.com/vtereshkov/umka-lang/master/resources/logo.svg" width="40%" height="auto" alt="umka"></a><br>
       <a href="https://github.com/Jopestpe/umka_exemplos">Exemplos umka</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/jplang_exemplos"><img src="https://github.com/Joaopaulopadilha/jp_lang/blob/main/icon.png" width="40%" height="auto" alt="jplang"></a><br>
+      <a href="https://github.com/Jopestpe/jplang_exemplos">Exemplos jplang</a>
+    </td>
   </tr>
 </table>
 
