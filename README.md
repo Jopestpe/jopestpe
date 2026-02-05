@@ -637,6 +637,13 @@
       <span>Exemplos GLFW</span><br>
       <a href="https://github.com/Jopestpe/c_exemplos/tree/main/opengl_exemplo">Em C</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/go_exemplos/tree/main/wails_exemplos">
+        <img src="https://avatars.githubusercontent.com/u/39746503?s=200&v=4" width="40%" height="auto" alt="GLFW">
+      </a><br>
+      <span>Exemplos Wails</span><br>
+      <a href="https://github.com/Jopestpe/go_exemplos/tree/main/wails_exemplos">Em Go</a>
+    </td>
   </tr>
 </table>
 
