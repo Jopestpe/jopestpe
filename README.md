@@ -299,7 +299,7 @@
   </tr>
 </table>
 
-<h2 align="center">Linguagens de Programação Descendentes</h2>
+<h2 align="center">Linguagens de Programação Derivadas</h2>
 
 <table align="center">
   <tr>
