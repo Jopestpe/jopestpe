@@ -719,13 +719,13 @@
       <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.config/zed">
         <img src="https://avatars.githubusercontent.com/u/79345384?v=4" width="40%" height="auto" alt="Zed">
       </a><br>
-      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.config/zed">Configuração Zed</a>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.config/zed">Configuração e Tema Zed</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.config/lite-xl">
         <img src="https://avatars.githubusercontent.com/u/85096704?s=200&v=4" width="40%" height="auto" alt="Lite XL">
       </a><br>
-      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.config/lite-xl">Configuração Lite XL</a>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.config/lite-xl">Configuração e Tema Lite XL</a>
     </td>
   </tr>
 </table>
