@@ -538,7 +538,9 @@
       </a><br>
       <span>Exemplos RayLib</span><br>
       <a href="https://github.com/Jopestpe/c_exemplos/tree/main/opengl_exemplo/raylib_exemplo">Em C</a><br>
-      <a href="https://github.com/Jopestpe/zig_exemplos/tree/main/raylib">Em Zig</a>
+      <a href="https://github.com/Jopestpe/zig_exemplos/tree/main/raylib">Em Zig</a><br>
+      <a href="https://github.com/Jopestpe/rust_exemplos/tree/main/raylib_exemplos">Em Rust</a><br>
+      <a href="https://github.com/Jopestpe/go_exemplos/tree/main/raylib_exemplos">Em Go</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/gtk">
