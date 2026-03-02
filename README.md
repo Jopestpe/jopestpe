@@ -68,6 +68,11 @@
       <a href="https://github.com/Jopestpe/Piin"><img src="https://github.com/Jopestpe/Piin/blob/main/icone.png" alt="Piin" width="40%" height="auto"></a><br>
       <a href="https://github.com/Jopestpe/Piin">Repositório</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://jopestpe.github.io/Vermo/">Vermo</a><br>
+      <a href="https://github.com/Jopestpe/Vermo"><img src="https://github.com/Jopestpe/Vermo/blob/main/web/vermo.png" alt="Vermo" width="40%" height="auto"></a><br>
+      <a href="https://github.com/Jopestpe/Vermo">Repositório</a>
+    </td>
   </tr>
 </table>
 
