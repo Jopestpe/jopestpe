@@ -78,7 +78,6 @@
 
 <h3 align="center">📢 No momento os repositorios abaixo estão privados</h3>
 <h2 align="center">Linguagens de Programação</h2>
-
 <table align="center">
   <tr>
     <td align="center" width="11.11%" height="11.11%">
@@ -86,150 +85,46 @@
       <a href="https://github.com/Jopestpe/c_exemplos">Exemplos C</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/rust_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40%" height="auto" alt="Rust"></a><br>
-      <a href="https://github.com/Jopestpe/rust_exemplos">Exemplos Rust</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/java_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40%" height="auto" alt="Java"></a><br>
-      <a href="https://github.com/Jopestpe/java_exemplos">Exemplos Java</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/lua_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40%" height="auto" alt="Lua"></a><br>
-      <a href="https://github.com/Jopestpe/lua_exemplos">Exemplos Lua</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/elm_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="40%" height="auto" alt="Elm"></a><br>
-      <a href="https://github.com/Jopestpe/elm_exemplos">Exemplos Elm</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/forth_exemplos"><img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/dbe13f9db714fda3a724680874151af1048efe85/icons/forth.svg" width="40%" height="auto" alt="Forth"></a><br>
-      <a href="https://github.com/Jopestpe/forth_exemplos">Exemplos Forth</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/r_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40%" height="auto" alt="R"></a><br>
-      <a href="https://github.com/Jopestpe/r_exemplos">Exemplos R</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/Julia_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" width="40%" height="auto" alt="Julia"></a><br>
-      <a href="https://github.com/Jopestpe/Julia_exemplos">Exemplos Julia</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/javascript_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40%" height="auto" alt="JavaScript"></a><br>
-      <a href="https://github.com/Jopestpe/javascript_exemplos">Exemplos JavaScript</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/lisp_exemplos"><img src="https://raw.githubusercontent.com/lisp-docs/lisp-docs.github.io/84cd1a7ee9caa9c040203a75facc135b2b066f02/static/img/logo.svg" width="40%" height="auto" alt="Lisp"></a><br>
-      <a href="https://github.com/Jopestpe/lisp_exemplos">Exemplos Lisp</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/python_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40%" height="auto" alt="Python"></a><br>
-      <a href="https://github.com/Jopestpe/python_exemplos">Exemplos Python</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/holyc_exemplos"><img src="https://raw.githubusercontent.com/Jamesbarford/holyc-lang/main/assets/holyc-logo.png" width="40%" height="auto" alt="HolyC"></a><br>
-      <a href="https://github.com/Jopestpe/holyc_exemplos">Exemplos HolyC</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/odin_exemplos"><img src="https://avatars.githubusercontent.com/u/34303136?v=4" width="40%" height="auto" alt="Odin"></a><br>
-      <a href="https://github.com/Jopestpe/odin_exemplos">Exemplos Odin</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/zig_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" width="40%" height="auto" alt="Zig"></a><br>
-      <a href="https://github.com/Jopestpe/zig_exemplos">Exemplos Zig</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/cpp_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40%" height="auto" alt="C++"></a><br>
       <a href="https://github.com/Jopestpe/cpp_exemplos">Exemplos C++</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/swift_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40%" height="auto" alt="Swift"></a><br>
-      <a href="https://github.com/Jopestpe/swift_exemplos">Exemplos Swift</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/vala_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vala/vala-original.svg" width="40%" height="auto" alt="Vala"></a><br>
-      <a href="https://github.com/Jopestpe/vala_exemplos">Exemplos Vala</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/perl_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" width="40%" height="auto" alt="Perl"></a><br>
-      <a href="https://github.com/Jopestpe/perl_exemplos">Exemplos Perl</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/d_exemplos"><img src="https://avatars.githubusercontent.com/u/565913?v=4" width="40%" height="auto" alt="D"></a><br>
-      <a href="https://github.com/Jopestpe/d_exemplos">Exemplos D</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/fortran_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" width="40%" height="auto" alt="Fortran"></a><br>
-      <a href="https://github.com/Jopestpe/fortran_exemplos">Exemplos Fortran</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/v_exemplos"><img src="https://avatars.githubusercontent.com/u/46413578?v=4" width="40%" height="auto" alt="V"></a><br>
-      <a href="https://github.com/Jopestpe/v_exemplos">Exemplos V</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/csharp_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40%" height="auto" alt="C#"></a><br>
       <a href="https://github.com/Jopestpe/csharp_exemplos">Exemplos C#</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/erlang_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-original.svg" width="40%" height="auto" alt="Erlang"></a><br>
-      <a href="https://github.com/Jopestpe/erlang_exemplos">Exemplos Erlang</a>
+      <a href="https://github.com/Jopestpe/objectivec_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/objectivec/objectivec-plain.svg" width="40%" height="auto" alt="Objective-C"></a><br>
+      <a href="https://github.com/Jopestpe/objectivec_exemplos">Exemplos Objective-C</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/ocaml_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" width="40%" height="auto" alt="OCaml"></a><br>
-      <a href="https://github.com/Jopestpe/ocaml_exemplos">Exemplos OCaml</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/shell_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40%" height="auto" alt="Shell"></a><br>
-      <a href="https://github.com/Jopestpe/shell_exemplos">Exemplos Shell</a>
+      <a href="https://github.com/Jopestpe/swift_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40%" height="auto" alt="Swift"></a><br>
+      <a href="https://github.com/Jopestpe/swift_exemplos">Exemplos Swift</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/assembly_exemplos"><img src="https://raw.githubusercontent.com/ryanoasis/nerd-fonts/a2697b0fefe5e8d946c18a167a9496c6f224d7c9/src/svgs/asm_nf.svg" width="40%" height="auto" alt="Assembly"></a><br>
-      <a href="https://github.com/Jopestpe/assembly_exemplos">Exemplos Assembly</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/haskell_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40%" height="auto" alt="Haskell"></a><br>
-      <a href="https://github.com/Jopestpe/haskell_exemplos">Exemplos Haskell</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/nim_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nim/nim-original.svg" width="40%" height="auto" alt="Nim"></a><br>
-      <a href="https://github.com/Jopestpe/nim_exemplos">Exemplos Nim</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/pascal_exemplos"><img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/dbe13f9db714fda3a724680874151af1048efe85/icons/pascal.svg" width="40%" height="auto" alt="Pascal"></a><br>
-      <a href="https://github.com/Jopestpe/pascal_exemplos">Exemplos Pascal</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/crystal_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/crystal/crystal-original.svg" width="40%" height="auto" alt="Crystal"></a><br>
-      <a href="https://github.com/Jopestpe/crystal_exemplos">Exemplos Crystal</a>
+      <a href="https://github.com/Jopestpe/carbon_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/carbon/carbon-original.svg" width="40%" height="auto" alt="Carbon"></a><br>
+      <a href="https://github.com/Jopestpe/carbon_exemplos">Exemplos Carbon</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/ruby_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40%" height="auto" alt="Ruby"></a><br>
-      <a href="https://github.com/Jopestpe/ruby_exemplos">Exemplos Ruby</a>
+      <a href="https://github.com/Jopestpe/vala_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vala/vala-original.svg" width="40%" height="auto" alt="Vala"></a><br>
+      <a href="https://github.com/Jopestpe/vala_exemplos">Exemplos Vala</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/go_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40%" height="auto" alt="Go"></a><br>
-      <a href="https://github.com/Jopestpe/go_exemplos">Exemplos Go</a>
+      <a href="https://github.com/Jopestpe/d_exemplos"><img src="https://avatars.githubusercontent.com/u/565913?v=4" width="40%" height="auto" alt="D"></a><br>
+      <a href="https://github.com/Jopestpe/d_exemplos">Exemplos D</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/lean4_exemplos"><img src="https://avatars.githubusercontent.com/u/7233018?v=4" width="40%" height="auto" alt="Lean4"></a><br>
-      <a href="https://github.com/Jopestpe/lean4_exemplos">Exemplos Lean4</a>
+      <a href="https://github.com/Jopestpe/zig_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" width="40%" height="auto" alt="Zig"></a><br>
+      <a href="https://github.com/Jopestpe/zig_exemplos">Exemplos Zig</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/php_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40%" height="auto" alt="PHP"></a><br>
-      <a href="https://github.com/Jopestpe/php_exemplos">Exemplos PHP</a>
+      <a href="https://github.com/Jopestpe/odin_exemplos"><img src="https://avatars.githubusercontent.com/u/34303136?v=4" width="40%" height="auto" alt="Odin"></a><br>
+      <a href="https://github.com/Jopestpe/odin_exemplos">Exemplos Odin</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/dart_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40%" height="auto" alt="Dart"></a><br>
-      <a href="https://github.com/Jopestpe/dart_exemplos">Exemplos Dart</a>
+      <a href="https://github.com/Jopestpe/v_exemplos"><img src="https://avatars.githubusercontent.com/u/46413578?v=4" width="40%" height="auto" alt="V"></a><br>
+      <a href="https://github.com/Jopestpe/v_exemplos">Exemplos V</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/c3_exemplos"><img src="https://avatars.githubusercontent.com/u/53541653?v=4" width="40%" height="auto" alt="C3"></a><br>
@@ -242,79 +137,30 @@
       <a href="https://github.com/Jopestpe/ats_exemplos">Exemplos ATS</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/prolog_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" width="40%" height="auto" alt="Prolog"></a><br>
-      <a href="https://github.com/Jopestpe/prolog_exemplos">Exemplos Prolog</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/io_exemplos"><img src="https://avatars.githubusercontent.com/u/37253655?v=4" width="40%" height="auto" alt="io"></a><br>
-      <a href="https://github.com/Jopestpe/io_exemplos">Exemplos io</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/ml_exemplos"><img src="https://avatars.githubusercontent.com/u/49415261?v=4" width="40%" height="auto" alt="ML"></a><br>
-      <a href="https://github.com/Jopestpe/ml_exemplos">Exemplos ML</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/ada_exemplos"><img src="https://raw.githubusercontent.com/github/explore/108a0c92a9caa79434b339b08d94767679c59286/topics/ada/ada.png" width="40%" height="auto" alt="Ada"></a><br>
-      <a href="https://github.com/Jopestpe/ada_exemplos">Exemplos Ada</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/tcl_exemplos"><img src="https://avatars.githubusercontent.com/u/53759?s=200&v=4" width="40%" height="auto" alt="Tcl"></a><br>
-      <a href="https://github.com/Jopestpe/tcl_exemplos">Exemplos Tcl</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/haxe_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" width="40%" height="auto" alt="Haxe"></a><br>
-      <a href="https://github.com/Jopestpe/haxe_exemplos">Exemplos Haxe</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/cobol_exemplos"><img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/cobol.svg" width="40%" height="auto" alt="Cobol"></a><br>
-      <a href="https://github.com/Jopestpe/cobol_exemplos">Exemplos Cobol</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/self_exemplos"><img src="https://github.com/russellallen/self/blob/master/docs/handbook/images/self.png" width="40%" height="auto" alt="Self"></a><br>
-      <a href="https://github.com/Jopestpe/self_exemplos">Exemplos Self</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/basic_exemplos"><img src="https://avatars.githubusercontent.com/u/298124?v=4" width="40%" height="auto" alt="Basic"></a><br>
-      <a href="https://github.com/Jopestpe/basic_exemplos">Exemplos Basic</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/ring_exemplos"><img src="https://avatars.githubusercontent.com/u/17973670?v=4" width="40%" height="auto" alt="Ring"></a><br>
-      <a href="https://github.com/Jopestpe/ring_exemplos">Exemplos Ring</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/solidity_exemplos"><img src="https://raw.githubusercontent.com/ethereum/solidity/eb3b72169f8fb9071a5130567ba1c4372bc6357a/docs/logo.svg" width="40%" height="auto" alt="Solidity"></a><br>
-      <a href="https://github.com/Jopestpe/solidity_exemplos">Exemplos Solidity</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/objectivec_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/objectivec/objectivec-plain.svg" width="40%" height="auto" alt="Objective-C"></a><br>
-      <a href="https://github.com/Jopestpe/objectivec_exemplos">Exemplos Objective-C</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/roc_exemplos"><img src="https://avatars.githubusercontent.com/u/63474338?s=200&v=4" width="40%" height="auto" alt="Roc"></a><br>
-      <a href="https://github.com/Jopestpe/roc_exemplos">Exemplos Roc</a>
+      <a href="https://github.com/Jopestpe/holyc_exemplos"><img src="https://raw.githubusercontent.com/Jamesbarford/holyc-lang/main/assets/holyc-logo.png" width="40%" height="auto" alt="HolyC"></a><br>
+      <a href="https://github.com/Jopestpe/holyc_exemplos">Exemplos HolyC</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/hare_exemplos"><img src="https://harelang.org/mascot.png" width="40%" height="auto" alt="Hare"></a><br>
       <a href="https://github.com/Jopestpe/hare_exemplos">Exemplos Hare</a>
     </td>
-  </tr>
-</table>
-
-<h2 align="center">Linguagens de Programação Derivadas</h2>
-
-<table align="center">
-  <tr>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/java_exemplos/tree/main/clojure_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg" width="40%" height="auto" alt="Clojure"></a><br>
-      <a href="https://github.com/Jopestpe/java_exemplos/tree/main/clojure_exemplos">Exemplos Clojure</a>
+      <a href="https://github.com/Jopestpe/onyx_exemplos"><img src="https://avatars.githubusercontent.com/u/102979627?v=4" width="40%" height="auto" alt="Onyx"></a><br>
+      <a href="https://github.com/Jopestpe/onyx_exemplos">Exemplos Onyx</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/java_exemplos/tree/main/groovy_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" width="40%" height="auto" alt="Groovy"></a><br>
-      <a href="https://github.com/Jopestpe/java_exemplos/tree/main/groovy_exemplos">Exemplos Groovy</a>
+      <a href="https://github.com/Jopestpe/go_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40%" height="auto" alt="Go"></a><br>
+      <a href="https://github.com/Jopestpe/go_exemplos">Exemplos Go</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/rust_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40%" height="auto" alt="Rust"></a><br>
+      <a href="https://github.com/Jopestpe/rust_exemplos">Exemplos Rust</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/java_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40%" height="auto" alt="Java"></a><br>
+      <a href="https://github.com/Jopestpe/java_exemplos">Exemplos Java</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/java_exemplos/tree/main/kotlin_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40%" height="auto" alt="Kotlin"></a><br>
@@ -325,6 +171,24 @@
       <a href="https://github.com/Jopestpe/java_exemplos/tree/main/scala_exemplos">Exemplos Scala</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/java_exemplos/tree/main/clojure_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg" width="40%" height="auto" alt="Clojure"></a><br>
+      <a href="https://github.com/Jopestpe/java_exemplos/tree/main/clojure_exemplos">Exemplos Clojure</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/java_exemplos/tree/main/groovy_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" width="40%" height="auto" alt="Groovy"></a><br>
+      <a href="https://github.com/Jopestpe/java_exemplos/tree/main/groovy_exemplos">Exemplos Groovy</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/java_exemplos/tree/main/scala_exemplos/vale_exemplos"><img src="https://avatars.githubusercontent.com/u/67560249?s=200&v=4" width="40%" height="auto" alt="Vale"></a><br>
+      <a href="https://github.com/Jopestpe/java_exemplos/tree/main/scala_exemplos/vale_exemplos">Exemplos Vale</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/lisp_exemplos"><img src="https://raw.githubusercontent.com/lisp-docs/lisp-docs.github.io/84cd1a7ee9caa9c040203a75facc135b2b066f02/static/img/logo.svg" width="40%" height="auto" alt="Lisp"></a><br>
+      <a href="https://github.com/Jopestpe/lisp_exemplos">Exemplos Lisp</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/lisp_exemplos/tree/main/racket_exemplos"><img src="https://avatars.githubusercontent.com/u/232371?v=4" width="40%" height="auto" alt="Racket"></a><br>
       <a href="https://github.com/Jopestpe/lisp_exemplos/tree/main/racket_exemplos">Exemplos Racket</a>
     </td>
@@ -332,19 +196,23 @@
       <a href="https://github.com/Jopestpe/lisp_exemplos/tree/main/scheme_exemplos/guile_exemplos"><img src="https://raw.githubusercontent.com/jerry40/guile-kernel/master/src/logo-64x64.png" width="40%" height="auto" alt="Scheme(Guile)"></a><br>
       <a href="https://github.com/Jopestpe/lisp_exemplos/tree/main/scheme_exemplos/guile_exemplos">Exemplos Scheme(Guile)</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/lisp_exemplos/tree/main/picolisp_exemplos"><img src="https://avatars.githubusercontent.com/u/11498997?v=4" width="40%" height="auto" alt="PicoLisp"></a><br>
+      <a href="https://github.com/Jopestpe/lisp_exemplos/tree/main/picolisp_exemplos">Exemplos PicoLisp</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/janet_exemplos"><img src="https://avatars.githubusercontent.com/u/45798268?s=200&v=4" width="40%" height="auto" alt="Janet"></a><br>
+      <a href="https://github.com/Jopestpe/janet_exemplos">Exemplos Janet</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/bend_exemplos"><img src="https://avatars.githubusercontent.com/u/92327702?v=4" width="40%" height="auto" alt="Bend"></a><br>
+      <a href="https://github.com/Jopestpe/bend_exemplos">Exemplos Bend</a>
+    </td>
   </tr>
   <tr>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/typescript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40%" height="auto" alt="TypeScript"></a><br>
-      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/typescript">Exemplos TypeScript</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/assemblyscript"><img src="https://avatars.githubusercontent.com/u/28916798?v=4" width="40%" height="auto" alt="AssemblyScript"></a><br>
-      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/assemblyscript">Exemplos AssemblyScript</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/carbon_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/carbon/carbon-original.svg" width="40%" height="auto" alt="Carbon"></a><br>
-      <a href="https://github.com/Jopestpe/carbon_exemplos">Exemplos Carbon</a>
+      <a href="https://github.com/Jopestpe/erlang_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-original.svg" width="40%" height="auto" alt="Erlang"></a><br>
+      <a href="https://github.com/Jopestpe/erlang_exemplos">Exemplos Erlang</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/erlang_exemplos/tree/main/elixir_exemplo"><img src="https://avatars.githubusercontent.com/u/1481354?v=4" width="40%" height="auto" alt="Elixir"></a><br>
@@ -355,60 +223,186 @@
       <a href="https://github.com/Jopestpe/erlang_exemplos/tree/main/gleam_exemplos">Exemplos Gleam</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/lobster_exemplos"><img src="https://raw.githubusercontent.com/aardappel/lobster/3602f80ebdce201c113b0e868c84d7d87d65df10/docs/lobster.svg" width="40%" height="auto" alt="Lobster"></a><br>
-      <a href="https://github.com/Jopestpe/lobster_exemplos">Exemplos Lobster</a>
+      <a href="https://github.com/Jopestpe/ocaml_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" width="40%" height="auto" alt="OCaml"></a><br>
+      <a href="https://github.com/Jopestpe/ocaml_exemplos">Exemplos OCaml</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/haskell_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40%" height="auto" alt="Haskell"></a><br>
+      <a href="https://github.com/Jopestpe/haskell_exemplos">Exemplos Haskell</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/lean4_exemplos"><img src="https://avatars.githubusercontent.com/u/7233018?v=4" width="40%" height="auto" alt="Lean4"></a><br>
+      <a href="https://github.com/Jopestpe/lean4_exemplos">Exemplos Lean4</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/onyx_exemplos"><img src="https://avatars.githubusercontent.com/u/102979627?v=4" width="40%" height="auto" alt="Onyx"></a><br>
-      <a href="https://github.com/Jopestpe/onyx_exemplos">Exemplos Onyx</a>
+      <a href="https://github.com/Jopestpe/ml_exemplos"><img src="https://avatars.githubusercontent.com/u/49415261?v=4" width="40%" height="auto" alt="ML"></a><br>
+      <a href="https://github.com/Jopestpe/ml_exemplos">Exemplos ML</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/bend_exemplos"><img src="https://avatars.githubusercontent.com/u/92327702?v=4" width="40%" height="auto" alt="Bend"></a><br>
-      <a href="https://github.com/Jopestpe/bend_exemplos">Exemplos Bend</a>
+      <a href="https://github.com/Jopestpe/roc_exemplos"><img src="https://avatars.githubusercontent.com/u/63474338?s=200&v=4" width="40%" height="auto" alt="Roc"></a><br>
+      <a href="https://github.com/Jopestpe/roc_exemplos">Exemplos Roc</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/mojo_exemplos"><img src="https://avatars.githubusercontent.com/u/150859076?s=200&v=4" width="40%" height="auto" alt="Mojo"></a><br>
-      <a href="https://github.com/Jopestpe/mojo_exemplos">Exemplos Mojo</a>
+      <a href="https://github.com/Jopestpe/elm_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="40%" height="auto" alt="Elm"></a><br>
+      <a href="https://github.com/Jopestpe/elm_exemplos">Exemplos Elm</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/purescript_exemplos"><img src="https://avatars.githubusercontent.com/u/6556677?s=200&v=4" width="40%" height="auto" alt="Purescript"></a><br>
       <a href="https://github.com/Jopestpe/purescript_exemplos">Exemplos Purescript</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/red_exemplos"><img src="https://avatars.githubusercontent.com/u/4625645?s=200&v=4" width="40%" height="auto" alt="Red"></a><br>
-      <a href="https://github.com/Jopestpe/red_exemplos">Exemplos Red</a>
+      <a href="https://github.com/Jopestpe/python_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40%" height="auto" alt="Python"></a><br>
+      <a href="https://github.com/Jopestpe/python_exemplos">Exemplos Python</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/java_exemplos/tree/main/scala_exemplos/vale_exemplos"><img src="https://avatars.githubusercontent.com/u/67560249?s=200&v=4" width="40%" height="auto" alt="Vale"></a><br>
-      <a href="https://github.com/Jopestpe/java_exemplos/tree/main/scala_exemplos/vale_exemplos">Exemplos Vale</a>
+      <a href="https://github.com/Jopestpe/ruby_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40%" height="auto" alt="Ruby"></a><br>
+      <a href="https://github.com/Jopestpe/ruby_exemplos">Exemplos Ruby</a>
     </td>
   </tr>
   <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/php_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40%" height="auto" alt="PHP"></a><br>
+      <a href="https://github.com/Jopestpe/php_exemplos">Exemplos PHP</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/perl_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" width="40%" height="auto" alt="Perl"></a><br>
+      <a href="https://github.com/Jopestpe/perl_exemplos">Exemplos Perl</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/r_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40%" height="auto" alt="R"></a><br>
+      <a href="https://github.com/Jopestpe/r_exemplos">Exemplos R</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/lua_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40%" height="auto" alt="Lua"></a><br>
+      <a href="https://github.com/Jopestpe/lua_exemplos">Exemplos Lua</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/Julia_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" width="40%" height="auto" alt="Julia"></a><br>
+      <a href="https://github.com/Jopestpe/Julia_exemplos">Exemplos Julia</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/mojo_exemplos"><img src="https://avatars.githubusercontent.com/u/150859076?s=200&v=4" width="40%" height="auto" alt="Mojo"></a><br>
+      <a href="https://github.com/Jopestpe/mojo_exemplos">Exemplos Mojo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/tcl_exemplos"><img src="https://avatars.githubusercontent.com/u/53759?s=200&v=4" width="40%" height="auto" alt="Tcl"></a><br>
+      <a href="https://github.com/Jopestpe/tcl_exemplos">Exemplos Tcl</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/ring_exemplos"><img src="https://avatars.githubusercontent.com/u/17973670?v=4" width="40%" height="auto" alt="Ring"></a><br>
+      <a href="https://github.com/Jopestpe/ring_exemplos">Exemplos Ring</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/basic_exemplos"><img src="https://avatars.githubusercontent.com/u/298124?v=4" width="40%" height="auto" alt="Basic"></a><br>
+      <a href="https://github.com/Jopestpe/basic_exemplos">Exemplos Basic</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/shell_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40%" height="auto" alt="Shell"></a><br>
+      <a href="https://github.com/Jopestpe/shell_exemplos">Exemplos Shell</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/nim_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nim/nim-original.svg" width="40%" height="auto" alt="Nim"></a><br>
+      <a href="https://github.com/Jopestpe/nim_exemplos">Exemplos Nim</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/crystal_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/crystal/crystal-original.svg" width="40%" height="auto" alt="Crystal"></a><br>
+      <a href="https://github.com/Jopestpe/crystal_exemplos">Exemplos Crystal</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/javascript_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40%" height="auto" alt="JavaScript"></a><br>
+      <a href="https://github.com/Jopestpe/javascript_exemplos">Exemplos JavaScript</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/typescript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40%" height="auto" alt="TypeScript"></a><br>
+      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/typescript">Exemplos TypeScript</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/assemblyscript"><img src="https://avatars.githubusercontent.com/u/28916798?v=4" width="40%" height="auto" alt="AssemblyScript"></a><br>
+      <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/assemblyscript">Exemplos AssemblyScript</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/haxe_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" width="40%" height="auto" alt="Haxe"></a><br>
+      <a href="https://github.com/Jopestpe/haxe_exemplos">Exemplos Haxe</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/dart_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40%" height="auto" alt="Dart"></a><br>
+      <a href="https://github.com/Jopestpe/dart_exemplos">Exemplos Dart</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/forth_exemplos"><img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/dbe13f9db714fda3a724680874151af1048efe85/icons/forth.svg" width="40%" height="auto" alt="Forth"></a><br>
+      <a href="https://github.com/Jopestpe/forth_exemplos">Exemplos Forth</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/assembly_exemplos"><img src="https://raw.githubusercontent.com/ryanoasis/nerd-fonts/a2697b0fefe5e8d946c18a167a9496c6f224d7c9/src/svgs/asm_nf.svg" width="40%" height="auto" alt="Assembly"></a><br>
+      <a href="https://github.com/Jopestpe/assembly_exemplos">Exemplos Assembly</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/pascal_exemplos"><img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/dbe13f9db714fda3a724680874151af1048efe85/icons/pascal.svg" width="40%" height="auto" alt="Pascal"></a><br>
+      <a href="https://github.com/Jopestpe/pascal_exemplos">Exemplos Pascal</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/ada_exemplos"><img src="https://raw.githubusercontent.com/github/explore/108a0c92a9caa79434b339b08d94767679c59286/topics/ada/ada.png" width="40%" height="auto" alt="Ada"></a><br>
+      <a href="https://github.com/Jopestpe/ada_exemplos">Exemplos Ada</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/fortran_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" width="40%" height="auto" alt="Fortran"></a><br>
+      <a href="https://github.com/Jopestpe/fortran_exemplos">Exemplos Fortran</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/cobol_exemplos"><img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/cobol.svg" width="40%" height="auto" alt="Cobol"></a><br>
+      <a href="https://github.com/Jopestpe/cobol_exemplos">Exemplos Cobol</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/prolog_exemplos"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" width="40%" height="auto" alt="Prolog"></a><br>
+      <a href="https://github.com/Jopestpe/prolog_exemplos">Exemplos Prolog</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/io_exemplos"><img src="https://avatars.githubusercontent.com/u/37253655?v=4" width="40%" height="auto" alt="io"></a><br>
+      <a href="https://github.com/Jopestpe/io_exemplos">Exemplos io</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/self_exemplos"><img src="https://github.com/russellallen/self/blob/master/docs/handbook/images/self.png" width="40%" height="auto" alt="Self"></a><br>
+      <a href="https://github.com/Jopestpe/self_exemplos">Exemplos Self</a>
+    </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/snowball_exemplos"><img src="https://avatars.githubusercontent.com/u/98821530?s=200&v=4" width="40%" height="auto" alt="Snowball"></a><br>
       <a href="https://github.com/Jopestpe/snowball_exemplos">Exemplos Snowball</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/janet_exemplos"><img src="https://avatars.githubusercontent.com/u/45798268?s=200&v=4" width="40%" height="auto" alt="Janet"></a><br>
-      <a href="https://github.com/Jopestpe/janet_exemplos">Exemplos Janet</a>
+      <a href="https://github.com/Jopestpe/lobster_exemplos"><img src="https://raw.githubusercontent.com/aardappel/lobster/3602f80ebdce201c113b0e868c84d7d87d65df10/docs/lobster.svg" width="40%" height="auto" alt="Lobster"></a><br>
+      <a href="https://github.com/Jopestpe/lobster_exemplos">Exemplos Lobster</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/lisp_exemplos/tree/main/picolisp_exemplos"><img src="https://avatars.githubusercontent.com/u/11498997?v=4" width="40%" height="auto" alt="PicoLisp"></a><br>
-      <a href="https://github.com/Jopestpe/lisp_exemplos/tree/main/picolisp_exemplos">Exemplos PicoLisp</a>
-    </td>
-    <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/moonbit_exemplos"><img src="https://avatars.githubusercontent.com/u/124848646?v=4" width="40%" height="auto" alt="MoonBit"></a><br>
-      <a href="https://github.com/Jopestpe/moonbit_exemplos">Exemplos MoonBit</a>
+      <a href="https://github.com/Jopestpe/jplang_exemplos"><img src="https://github.com/Joaopaulopadilha/jp_lang/blob/main/icon.png" width="40%" height="auto" alt="jplang"></a><br>
+      <a href="https://github.com/Jopestpe/jplang_exemplos">Exemplos jplang</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/umka_exemplos"><img src="https://raw.githubusercontent.com/vtereshkov/umka-lang/master/resources/logo.svg" width="40%" height="auto" alt="umka"></a><br>
       <a href="https://github.com/Jopestpe/umka_exemplos">Exemplos umka</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/jplang_exemplos"><img src="https://github.com/Joaopaulopadilha/jp_lang/blob/main/icon.png" width="40%" height="auto" alt="jplang"></a><br>
-      <a href="https://github.com/Jopestpe/jplang_exemplos">Exemplos jplang</a>
+      <a href="https://github.com/Jopestpe/moonbit_exemplos"><img src="https://avatars.githubusercontent.com/u/124848646?v=4" width="40%" height="auto" alt="MoonBit"></a><br>
+      <a href="https://github.com/Jopestpe/moonbit_exemplos">Exemplos MoonBit</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/red_exemplos"><img src="https://avatars.githubusercontent.com/u/4625645?s=200&v=4" width="40%" height="auto" alt="Red"></a><br>
+      <a href="https://github.com/Jopestpe/red_exemplos">Exemplos Red</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/solidity_exemplos"><img src="https://raw.githubusercontent.com/ethereum/solidity/eb3b72169f8fb9071a5130567ba1c4372bc6357a/docs/logo.svg" width="40%" height="auto" alt="Solidity"></a><br>
+      <a href="https://github.com/Jopestpe/solidity_exemplos">Exemplos Solidity</a>
     </td>
   </tr>
 </table>
