@@ -645,6 +645,13 @@
       <span>Exemplos Wails</span><br>
       <a href="https://github.com/Jopestpe/go_exemplos/tree/main/wails_exemplos">Em Go</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/go_exemplos/tree/main/fyne_exemplos">
+        <img src="https://avatars.githubusercontent.com/u/36045855?s=200&v=4" width="40%" height="auto" alt="GLFW">
+      </a><br>
+      <span>Exemplos Fyne</span><br>
+      <a href="https://github.com/Jopestpe/go_exemplos/tree/main/fyne_exemplos">Em Go</a>
+    </td>
   </tr>
 </table>
 
