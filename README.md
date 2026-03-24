@@ -18,7 +18,7 @@
   <tr>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://jopestpe.github.io/d20">d20</a><br>
-      <a href="https://github.com/Jopestpe/d20"><img src="https://raw.githubusercontent.com/Jopestpe/d20/refs/heads/main/icone.png" alt="d20" width="40%" height="auto"></a><br>
+      <a href="https://github.com/Jopestpe/d20"><img src="https://raw.githubusercontent.com/Jopestpe/d20/refs/heads/main/icone.svg" alt="d20" width="40%" height="auto"></a><br>
       <a href="https://github.com/Jopestpe/d20">Repositório</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
@@ -72,6 +72,11 @@
       <a href="https://jopestpe.github.io/Vermo/">Vermo</a><br>
       <a href="https://github.com/Jopestpe/Vermo"><img src="https://github.com/Jopestpe/Vermo/blob/main/web/vermo.png" alt="Vermo" width="40%" height="auto"></a><br>
       <a href="https://github.com/Jopestpe/Vermo">Repositório</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://jopestpe.github.io/d20narrador">d20narrador</a><br>
+      <a href="https://github.com/Jopestpe/d20narrador"><img src="https://raw.githubusercontent.com/Jopestpe/d20narrador/refs/heads/main/icone.svg" alt="d20" width="40%" height="auto"></a><br>
+      <a href="https://github.com/Jopestpe/d20narrador">Repositório</a>
     </td>
   </tr>
 </table>
