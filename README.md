@@ -79,6 +79,13 @@
       <a href="https://github.com/Jopestpe/d20narrador">Repositório</a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/Criaud">Criaud</a><br>
+      <a href="https://github.com/Jopestpe/Criaud"><img src="https://raw.githubusercontent.com/Jopestpe/Criaud/refs/heads/main/icone.svg" alt="d20" width="40%" height="auto"></a><br>
+      <a href="https://github.com/Jopestpe/Criaud">Repositório</a>
+    </td>
+  </tr>
 </table>
 
 <h3 align="center">📢 No momento os repositorios abaixo estão privados</h3>
