@@ -731,7 +731,7 @@
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/arquivos_exemplos/blob/main/home/.nanorc">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/256px-Gnu-nano.svg.png?20091219063420" width="40%" height="auto" alt="Nano">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/330px-Gnu-nano.svg.png" width="40%" height="auto" alt="Nano">
       </a><br>
       <a href="https://github.com/Jopestpe/arquivos_exemplos/blob/main/home/.nanorc">Configuração Nano</a>
     </td>
