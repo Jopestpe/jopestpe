@@ -754,4 +754,19 @@
       <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.config/lite-xl">Configuração e Tema Lite XL</a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/user/.config/quickshell/jopestpe">
+        <img src="https://avatars.githubusercontent.com/u/183160573?s=200&v=4" width="40%" height="auto" alt="Quickshell">
+      </a><br>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/user/.config/quickshell/jopestpe">Tema Quickshell</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/usr/share/sddm/themes/jopestpe">
+        <img src="https://avatars.githubusercontent.com/u/3300553?s=200&v=4" width="40%" height="auto" alt="SDDM">
+      </a><br>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/usr/share/sddm/themes/jopestpe">Tema SDDM</a>
+    </td>
+    
+  </tr>
 </table>
