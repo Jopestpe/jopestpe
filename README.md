@@ -86,7 +86,7 @@
       <a href="https://github.com/Jopestpe/Criaud">Repositório</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://jopestpe.github.io/Crifon/">Criaud</a><br>
+      <a href="https://jopestpe.github.io/Crifon/">Crifon</a><br>
       <a href="https://github.com/Jopestpe/Crifon"><img src="https://raw.githubusercontent.com/Jopestpe/Crifon/refs/heads/main/icone.svg" alt="d20" width="40%" height="auto"></a><br>
       <a href="https://github.com/Jopestpe/Crifon">Repositório</a>
     </td>
