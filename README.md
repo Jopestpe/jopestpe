@@ -421,6 +421,12 @@
       <a href="https://github.com/Jopestpe/solidity_exemplos"><img src="https://raw.githubusercontent.com/ethereum/solidity/eb3b72169f8fb9071a5130567ba1c4372bc6357a/docs/logo.svg" width="40%" height="auto" alt="Solidity"></a><br>
       <a href="https://github.com/Jopestpe/solidity_exemplos">Exemplos Solidity</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+     <a href="https://github.com/Jopestpe/zenc_exemplos">
+      <p>🟩</p>
+    </a><br>
+    <a href="https://github.com/Jopestpe/zenc_exemplos">Exemplos Zen C</a>
+    </td>
   </tr>
 </table>
 
