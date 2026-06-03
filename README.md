@@ -502,6 +502,10 @@
       <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/frameworks/front-end/alpinejs"><img src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" width="40%" height="auto" alt="AlpineJS"></a><br>
       <a href="https://github.com/Jopestpe/javascript_exemplos/tree/main/frameworks/front-end/alpinejs">Exemplos AlpineJS</a>
     </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/php_exemplos/tree/main/laravel"><img src="https://avatars.githubusercontent.com/u/958072?v=4" width="40%" height="auto" alt="Laravel"></a><br>
+      <a href="https://github.com/Jopestpe/php_exemplos/tree/main/laravel">Exemplos Laravel</a>
+    </td>
   </tr>
 </table>
 
