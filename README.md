@@ -422,9 +422,7 @@
       <a href="https://github.com/Jopestpe/solidity_exemplos">Exemplos Solidity</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-     <a href="https://github.com/Jopestpe/zenc_exemplos">
-      <p>🟩</p>
-    </a><br>
+      <a href="https://github.com/Jopestpe/zenc_exemplos"><img src="https://raw.githubusercontent.com/zenc-lang/.github/main/profile/zibi.svg" width="40%" height="auto" alt="Zibi"></a><br>
     <a href="https://github.com/Jopestpe/zenc_exemplos">Exemplos Zen C</a>
     </td>
   </tr>
