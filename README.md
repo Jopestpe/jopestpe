@@ -733,7 +733,7 @@
       <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/user/.local/share/krita">
         <img src="https://raw.githubusercontent.com/KDE/krita/8fca43a64281619da4352146642975b4ec505fa3/pics/krita-base.svg" width="40%" height="auto" alt="Krita">
       </a><br>
-      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/.local/share/krita/workspaces">Configuração e Tema Krita</a>
+      <a href="https://github.com/Jopestpe/arquivos_exemplos/tree/main/home/user/.local/share/krita">Configuração e Tema Krita</a>
     </td>
   </tr>
   <tr>
