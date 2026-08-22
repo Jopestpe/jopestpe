@@ -670,31 +670,38 @@
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/go_exemplos/tree/main/wails_exemplos">
-        <img src="https://avatars.githubusercontent.com/u/39746503?s=200&v=4" width="40%" height="auto" alt="GLFW">
+        <img src="https://avatars.githubusercontent.com/u/39746503?s=200&v=4" width="40%" height="auto" alt="Wails">
       </a><br>
       <span>Exemplos Wails</span><br>
       <a href="https://github.com/Jopestpe/go_exemplos/tree/main/wails_exemplos">Em Go</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/go_exemplos/tree/main/fyne_exemplos">
-        <img src="https://avatars.githubusercontent.com/u/36045855?s=200&v=4" width="40%" height="auto" alt="GLFW">
+        <img src="https://avatars.githubusercontent.com/u/36045855?s=200&v=4" width="40%" height="auto" alt="Fyne">
       </a><br>
       <span>Exemplos Fyne</span><br>
       <a href="https://github.com/Jopestpe/go_exemplos/tree/main/fyne_exemplos">Em Go</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/cpp_exemplos/tree/main/sfml_exemplos">
-        <img src="https://avatars.githubusercontent.com/u/4226899?s=200&v=4" width="40%" height="auto" alt="GLFW">
+        <img src="https://avatars.githubusercontent.com/u/4226899?s=200&v=4" width="40%" height="auto" alt="SFML">
       </a><br>
       <span>Exemplos SFML</span><br>
       <a href="https://github.com/Jopestpe/cpp_exemplos/tree/main/sfml_exemplos">Em C++</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
       <a href="https://github.com/Jopestpe/cpp_exemplos/tree/main/fltk_exemplos">
-        <img src="https://avatars.githubusercontent.com/u/6344207?v=4" width="40%" height="auto" alt="GLFW">
+        <img src="https://avatars.githubusercontent.com/u/6344207?v=4" width="40%" height="auto" alt="FLTK">
       </a><br>
       <span>Exemplos FLTK</span><br>
       <a href="https://github.com/Jopestpe/cpp_exemplos/tree/main/fltk_exemplos">Em C++</a>
+    </td>
+    <td align="center" width="11.11%" height="11.11%">
+      <a href="https://github.com/Jopestpe/rust_exemplos/tree/main/slint_exemplos">
+        <img src="https://avatars.githubusercontent.com/u/64742117?s=200&v=4" width="40%" height="auto" alt="SLINT">
+      </a><br>
+      <span>Exemplos Slint</span><br>
+      <a href="https://github.com/Jopestpe/rust_exemplos/tree/main/slint_exemplos">Em Rust</a>
     </td>
   </tr>
   
