@@ -436,8 +436,8 @@
       <a href="https://github.com/Jopestpe/zenc_exemplos">Exemplos Zen C</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://github.com/Jopestpe/exemplos_oberon"><img src="https://avatars.githubusercontent.com/u/86878290?s=200&v=4" width="40%" height="auto" alt="Oberon"></a><br>
-      <a href="https://github.com/Jopestpe/exemplos_oberon">Exemplos Oberon</a>
+      <a href="https://github.com/Jopestpe/oberon_exemplos"><img src="https://avatars.githubusercontent.com/u/86878290?s=200&v=4" width="40%" height="auto" alt="Oberon"></a><br>
+      <a href="https://github.com/Jopestpe/oberon_exemplos">Exemplos Oberon</a>
     </td>
   </tr>
 </table>
