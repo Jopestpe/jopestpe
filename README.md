@@ -96,9 +96,9 @@
       <a href="https://github.com/Jopestpe/Orgmat">Repositório</a>
     </td>
     <td align="center" width="11.11%" height="11.11%">
-      <a href="https://jopestpe.github.io/yig_yang_a_guerra_infinita/">Yig Yang a guerra infinita</a><br>
-      <a href="https://github.com/Jopestpe/yig_yang_a_guerra_infinita"><img src="https://raw.githubusercontent.com/Jopestpe/yig_yang_a_guerra_infinita/refs/heads/main/icone.svg" alt="d20" width="40%" height="auto"></a><br>
-      <a href="https://github.com/Jopestpe/yig_yang_a_guerra_infinita">Repositório</a>
+      <a href="https://jopestpe.github.io/yin_yang_a_guerra_infinita/">Yin Yang a guerra infinita</a><br>
+      <a href="https://github.com/Jopestpe/yin_yang_a_guerra_infinita"><img src="https://raw.githubusercontent.com/Jopestpe/yin_yang_a_guerra_infinita/refs/heads/main/icone.svg" alt="d20" width="40%" height="auto"></a><br>
+      <a href="https://github.com/Jopestpe/yin_yang_a_guerra_infinita">Repositório</a>
     </td>
   </tr>
 </table>
